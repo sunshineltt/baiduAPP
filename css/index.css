@@ -1,0 +1,38 @@
+*{
+	padding:0px 10px;
+	margin:0px;
+	list-style:none;
+	text-decoration:none;
+}
+
+body{
+	 font-family:"微软雅黑";
+	 font-size:20px;
+}
+.card{
+	box-shadow: 0 0 3px black;
+	height:50px;
+	margin-top:10px;
+	background:red;
+	width:100%;
+
+}
+ul li span{
+	font-size:14px;
+	color:#333;
+}
+.guanli{
+	text-align:center;
+}
+.xinxi{
+	height:30px;
+	line-height:30px;
+}
+
+
+
+
+
+
+
+

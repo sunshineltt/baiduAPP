@@ -1,0 +1,11 @@
+<div>
+	<span><a href="#/" >&lt;</a></span>
+	<h3 class='guanli'>管理卡片</h3>
+	<ul>
+		<li class='xinxi' ng-repeat="value in data">
+			<span>{{value.name}}</span>
+			<span>{{value.des}}</span>
+			<span ng-click="value.state = !value.state">{{value.state}}</span>
+ 		</li>
+	</ul>
+</div>
